@@ -1,21 +1,27 @@
-# Passwort verwaltungsprogramm
+# Passwortverwaltungsprogramm: Bitwarden
 
-## Bitwarden
-*Ich habe mich für BitWarden entschieden da ich schon erfahrung mit dieser Software hatte*
+## Warum Bitwarden?
+Ich habe mich für Bitwarden entschieden, da ich bereits positive Erfahrungen mit dieser Software gemacht habe. Bitwarden bietet eine starke Kombination aus Sicherheit, Benutzerfreundlichkeit und Transparenz.
 
-## vorteile
-*Vorteile von Bitwarden:
+## Vorteile von Bitwarden
+- **Open Source**  
+  Bitwarden ist quelloffen, was bedeutet, dass der Code öffentlich einsehbar ist. Dies fördert Vertrauen durch Transparenz und ermöglicht es der Community, Sicherheitslücken zu identifizieren und zu beheben.
 
-   1. Open Source: Transparenz durch einsehbaren Code.
-   2. Günstig: Kostenlose Nutzung und sehr günstiges Premium-Angebot.
-   3. Sicher: Starke Ende-zu-Ende-Verschlüsselung (AES-256).
-   4. Plattformunabhängig: Funktioniert auf Windows, Mac, Linux, Android, iOS und als Browser-Erweiterung.*
+- **Kosteneffizient**  
+  Die Basisversion von Bitwarden ist kostenlos und bietet alle grundlegenden Funktionen. Für einen geringen Betrag kann man auf die Premium-Version upgraden, die zusätzliche Features beinhaltet.
 
-## Nachteile
-*Nachteile von Bitwarden:
+- **Hohe Sicherheit**  
+  Bitwarden verwendet eine starke Ende-zu-Ende-Verschlüsselung (AES-256), die sicherstellt, dass nur der Benutzer Zugriff auf seine Daten hat.
 
-   1. Benutzeroberfläche ist nicht so intuitiv wie bei LastPass.
-   2. Premium-Version notwendig für Funktionen wie 2FA-Integration.*
+- **Plattformunabhängig**  
+  Die Anwendung ist auf allen gängigen Betriebssystemen (Windows, Mac, Linux) sowie auf mobilen Geräten (Android, iOS) verfügbar. Zudem gibt es eine praktische Browser-Erweiterung.
 
-## Fazit 
-**
+## Nachteile von Bitwarden
+- **Benutzeroberfläche**  
+  Die Benutzeroberfläche von Bitwarden ist funktional, jedoch nicht so intuitiv oder benutzerfreundlich wie bei einigen Konkurrenten, z. B. LastPass.
+
+- **Premium-Funktionen**  
+  Einige erweiterte Funktionen, wie z. B. die Integration von Zwei-Faktor-Authentifizierung (2FA), sind nur in der kostenpflichtigen Premium-Version verfügbar.
+
+## Fazit
+Bitwarden bietet eine hervorragende kostenlose Variante, die alle wesentlichen Funktionen freischaltet. Auch wenn einige Features in der kostenlosen Version eingeschränkt sind, bietet sie insgesamt ein hohes Maß an Sicherheit und Flexibilität. Die Investition in die Premium-Version kann sich lohnen, wenn man von erweiterten Sicherheitsfunktionen profitieren möchte.
