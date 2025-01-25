@@ -1,0 +1,85 @@
+# Checkliste 1: Suchmaschinen-Cache löschen (Google)
+
+## 1. Vor dem Löschantrag
+- **Erfüllt:** Ja.
+- **Wie umgesetzt:** Ich habe die Daten von der ursprünglichen Website gelöscht, um sicherzustellen, dass die Löschung durch Google akzeptiert wird.
+
+## 2. Melden Sie sich bei Google an
+- **Erfüllt:** Ja.
+- **Wie umgesetzt:** Ich habe mich mit meinem bestehenden Google-Konto angemeldet. Dabei wurde darauf geachtet, ein Pseudonym für zusätzlichen Datenschutz zu verwenden.
+
+## 3. Öffnen Sie die Google Search Console
+- **Erfüllt:** Ja.
+- **Wie umgesetzt:** Ich habe die Google Search Console über den bereitgestellten Link geöffnet und den Prozess zur Löschung der Daten gestartet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Checkliste 2: E-Mail-Sicherheit
+
+## 1. Verhalten anpassen
+- **E-Mail-Adressen sparsam teilen:**  
+  Ja, ich gebe meine E-Mail-Adresse nur an vertrauenswürdige Quellen weiter.
+
+- **Verschiedene Adressen für verschiedene Zwecke nutzen:**  
+  Ja, ich verwende separate E-Mail-Adressen für private, berufliche und andere Zwecke.
+
+- **Starke Passwörter nutzen:**  
+  Ja, ich habe sichere Passwörter erstellt und überprüfe diese regelmäßig auf Stärke und Sicherheit.
+
+- **Regelmäßiger Passwortwechsel:**  
+  Nein, ich werde meine Passwörter in Zukunft regelmäßig ändern und einen Passwortmanager verwenden.
+
+---
+
+## 2. Technische Sicherheitsmaßnahmen
+- **Regelmäßige Updates durchführen:**  
+  Ja, ich halte mein Betriebssystem, E-Mail-Client und Browser auf dem neuesten Stand.
+
+- **Spamfilter nutzen:**  
+  Ja, der Spamfilter meines E-Mail-Anbieters ist aktiviert und wird regelmäßig überprüft.
+
+- **Verschlüsselte Übertragung aktivieren (TLS/SSL):**  
+  Ja, meine E-Mail-Konten verwenden sichere Übertragungsprotokolle.
+
+- **Virenschutz aktivieren:**  
+  Ja, mein Virenschutz ist installiert und aktuell.
+
+---
+
+## 3. Vertraulichkeit gewährleisten
+- **Anhänge verschlüsseln:**  
+  Nein, ich werde zukünftig sensible Anhänge mit einem Tool wie 7-Zip oder PGP verschlüsseln, bevor ich sie versende.
+
+- **Daten über sichere Plattformen austauschen:**  
+  Nein, ich werde in Zukunft Dienste wie **WebTransferZH** nutzen, um sensible Dateien sicher zu teilen.
+
+---
+
+## 4. E-Mails mit GPG/PGP verschlüsseln
+- **Zusatzprogramm installieren:**  
+  Nein, ich werde GPG4Win herunterladen und installieren, um meine E-Mails zu verschlüsseln.
+
+- **E-Mail-Client konfigurieren:**  
+  Nein, ich werde meinen E-Mail-Client mit GPG einrichten und testen.
+
+- **Schlüssel generieren und sicher speichern:**  
+  Nein, ich werde meinen öffentlichen und privaten Schlüssel generieren und sicher ablegen.
+
+---
+
+## 5. E-Mails mit S/MIME-Zertifikaten verschlüsseln
+- **Zertifikat erwerben und importieren:**  
+  Nein, ich werde ein S/MIME-Zertifikat beschaffen und in meinen E-Mail-Client importieren.
+
+- **S/MIME einrichten:**  
+  Nein, ich werde S/MIME einrichten und sicherstellen, dass E-Mails korrekt signiert und verschlüsselt werden.
